@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://chinhthucbackend-1.onrender.com/api/:path*"
+      "destination": "https://test-i4zm.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
